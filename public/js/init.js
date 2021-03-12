@@ -13,7 +13,6 @@ jQuery(document).ready(function () {
       fonts: [
         { name: "Helvetica" },
         { name: "Times New Roman" },
-        { name: "Pacifico", url: "Enter_URL_To_Pacifico" },
         { name: "Arial" },
         { name: "Lobster", url: "google" },
       ],
